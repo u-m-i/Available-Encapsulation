@@ -3,4 +3,4 @@ Library to add the `own` keyword to a programming language to make properties or
 
 ### Crazy ideas
 
-Let's create a keyword to avoid declaring a constructor that is just going to use the base/super one.
+Let's create a keyword to avoid declaring a constructor that is just going to use the base/super one. (Let's say a way to mark it as one)
